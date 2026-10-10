@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="https://warcraft.wiki.gg/images/thumb/Rogue_Crest.png/250px-Rogue_Crest.png?78fd46" width="110" alt="UmbraCoreX Logo" />
+  <img src="https://warcraft.wiki.gg/images/thumb/Rogue_Crest.png/250px-Rogue_Crest.png?78fd46" width="120" alt="Rogue Crest" />
 
 <br><br>
 
