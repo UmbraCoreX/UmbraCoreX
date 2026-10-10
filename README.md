@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**UmbraCoreX/UmbraCoreX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0910,50:241638,100:0B0910&text=UmbraCoreX&fontColor=C9B3F5&fontSize=48&fontAlignY=42&desc=Lost%20between%20shadows%20and%20starlight&descAlignY=63&descSize=14&animation=fadeIn" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+*“Some souls are never meant to walk in the light.”*
+
+<br>
+
+☾　✦　☽
+
+</div>
+
+<br>
+
+<div align="center">
+
+**ROGUE AT HEART · CHILD OF THE FORSAKEN**
+
+<br>
+
+A quiet presence in a noisy world.
+<br>
+Drawn to forgotten places, darker tales, and things left unexplored.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/World%20of%20Warcraft-1A1424?style=flat-square&logo=worldofwarcraft&logoColor=C9B3F5" />
+<img src="https://img.shields.io/badge/Forsaken-241638?style=flat-square&labelColor=0B0910&color=241638" />
+<img src="https://img.shields.io/badge/Rogue-241638?style=flat-square&labelColor=0B0910&color=241638" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ☽ A LITTLE ABOUT MY WORLD ☾
+
+I have always been drawn to the mysterious side of things.
+The hidden paths, the forgotten stories, the ones who never quite belonged.
+
+Perhaps that is why the shadows of Azeroth feel so familiar.
+
+<br>
+
+✧　 *Not all who wander seek the light.*　✧
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+UMBRA CORE X
+<br>
+WANDER QUIETLY · LEAVE SOMETHING BEHIND
+</sub>
+
+</div>
