@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="./Assets/rogue-crest.WEBP" width="120" alt="Rogue Crest" />
+  <img src="./Assets/Rogue_crest.WEBP" width="120" alt="Rogue Crest" />
 
 <br><br>
 
