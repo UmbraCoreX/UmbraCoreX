@@ -1,148 +1,115 @@
+ <div align="center">
 
-<div align="center">
+<img src="./Assets/Rogue_crest.webp" width="100" alt="Rogue Crest" />
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="18%" align="left" valign="bottom">
-      <img src="./Assets/Borda_esquerda_superior.png" width="100%" alt="">
-    </td>
-    <td width="64%" align="center" valign="bottom">
-      <img src="./Assets/Top.png" width="100%" alt="">
-    </td>
-    <td width="18%" align="right" valign="bottom">
-      <img src="./Assets/Borda_direita_superior.png" width="100%" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" align="center" valign="top">
-      <img src="./Assets/Borda_esquerda.png" width="100%" alt="">
-    </td>
-    <td width="64%" align="center" valign="top">
+<br>
 
-      <img src="./Assets/Rogue_crest.webp" width="125" alt="Rogue Crest" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:08050D,25:170D26,55:38205C,80:241338,100:08050D&text=UmbraCoreX&fontColor=DCC7FF&fontSize=52&fontAlignY=40&desc=AN%20ECHO%20AMONG%20THE%20SHADOWS&descSize=13&descAlignY=60&descColor=B49AD9&animation=fadeIn" width="100%" alt="UmbraCoreX" />
 
-      <br><br>
+<br>
 
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08050D,25:170D26,55:38205C,80:241338,100:08050D&text=UmbraCoreX&fontColor=DCC7FF&fontSize=52&fontAlignY=40&desc=AN%20ECHO%20AMONG%20THE%20SHADOWS&descSize=13&descAlignY=60&descColor=B49AD9&animation=fadeIn" width="100%" />
+<img src="./Assets/Top.png" width="70%" alt="" />
 
-      <br>
+<br>
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:08050D,50:9B72CF,100:08050D" width="70%" />
+*“Some souls are never meant to walk in the light.”*
 
-      <br><br>
+<br><br>
 
-      *“Some souls are never meant to walk in the light.”*
+☾　✦　☽
 
-      <br><br>
+<br><br>
 
-      ☾　✦　☽
+**ROGUE AT HEART**
 
-      <br><br>
+<br>
 
-      **ROGUE AT HEART**
+<sub>CHILD OF THE FORSAKEN · WALKER OF THE SHADOWS</sub>
 
-      <br>
+<br><br>
 
-      <sub>CHILD OF THE FORSAKEN · WALKER OF THE SHADOWS</sub>
+A quiet presence in a noisy world.
 
-      <br><br>
+<br>
 
-      A quiet presence in a noisy world.
+Drawn to forgotten places, ancient stories, and the beauty of things left in the dark.
 
-      <br>
+<br><br>
 
-      Drawn to forgotten places, ancient stories, and the beauty of things left in the dark.
+<img src="https://img.shields.io/badge/WORLD_OF_WARCRAFT-170D26?style=for-the-badge&logo=worldofwarcraft&logoColor=DCC7FF" alt="World of Warcraft" />
+<img src="https://img.shields.io/badge/FORSAKEN-241338?style=for-the-badge&labelColor=08050D&color=241338" alt="Forsaken" />
+<img src="https://img.shields.io/badge/ROGUE-38205C?style=for-the-badge&labelColor=08050D&color=38205C" alt="Rogue" />
 
-      <br><br>
+<br><br>
 
-      <img src="https://img.shields.io/badge/WORLD_OF_WARCRAFT-170D26?style=for-the-badge&logo=worldofwarcraft&logoColor=DCC7FF" />
-      <img src="https://img.shields.io/badge/FORSAKEN-241338?style=for-the-badge&labelColor=08050D&color=241338" />
-      <img src="https://img.shields.io/badge/ROGUE-38205C?style=for-the-badge&labelColor=08050D&color=38205C" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="80%" alt="" />
 
-      <br><br>
+<h2>☽ BEYOND THE VEIL ☾</h2>
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="100%" />
+<br>
 
-      <h2>☽ BEYOND THE VEIL ☾</h2>
+*Not every shadow hides a monster.*
 
-      <br>
+<br>
 
-      *Not every shadow hides a monster.*
+*Not every light offers salvation.*
 
-      <br>
+<br><br>
 
-      *Not every light offers salvation.*
+Somewhere between the forgotten kingdoms of Azeroth and the silence of the void, there is a place for those who never quite belonged.
 
-      <br><br>
+<br><br>
 
-      Somewhere between the forgotten kingdoms of Azeroth and the silence of the void, there is a place for those who never quite belonged.
+I have always found something fascinating in the mysterious, the unconventional, and the stories that linger long after the world has moved on.
 
-      <br><br>
+<br><br>
 
-      I have always found something fascinating in the mysterious, the unconventional, and the stories that linger long after the world has moved on.
+✧　**Not all who wander seek the light.**　✧
 
-      <br><br>
+<br><br>
 
-      ✧　 **Not all who wander seek the light.**　✧
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="80%" alt="" />
 
-      <br><br>
+<h2>✦ THE VOID WITHIN ✦</h2>
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="100%" />
+<br>
 
-      <h2>✦ THE VOID WITHIN ✦</h2>
+<sub>
+☾ MYSTERY
+<br>
+Drawn to the unknown.
+<br><br>
+✦ SHADOW
+<br>
+Quiet, observant, relentless.
+<br><br>
+☽ FREEDOM
+<br>
+Walking my own path.
+</sub>
 
-      <br>
+<br><br>
 
-      <sub>
-      ☾ MYSTERY
-      <br>
-      Drawn to the unknown.
-      <br><br>
-      ✦ SHADOW
-      <br>
-      Quiet, observant, relentless.
-      <br><br>
-      ☽ FREEDOM
-      <br>
-      Walking my own path.
-      </sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="60%" alt="" />
 
-      <br><br>
+<br>
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="60%" />
+*“The shadows are not empty. They remember.”*
 
-      <br>
+<br><br>
 
-      *“The shadows are not empty. They remember.”*
+<sub>UMBRA CORE X</sub>
 
-      <br><br>
+<br>
 
-      <sub>UMBRA CORE X</sub>
+<sub>WANDER QUIETLY · LEAVE SOMETHING BEHIND</sub>
 
-      <br>
+<br><br>
 
-      <sub>WANDER QUIETLY · LEAVE SOMETHING BEHIND</sub>
+<img src="./Assets/Bottom.png" width="70%" alt="" />
 
-      <br><br>
+<br>
 
-      <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:08050D,35:241338,70:38205C,100:08050D" width="100%" />
-
-    </td>
-    <td width="18%" align="center" valign="top">
-      <img src="./Assets/Borda_direita.png" width="100%" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" align="left" valign="top">
-      <img src="./Assets/Borda_esquerda_inferior.png" width="100%" alt="">
-    </td>
-    <td width="64%" align="center" valign="top">
-      <img src="./Assets/Bottom.png" width="100%" alt="">
-    </td>
-    <td width="18%" align="right" valign="top">
-      <img src="./Assets/Borda_direita_inferior.png" width="100%" alt="">
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:08050D,35:241338,70:38205C,100:08050D" width="100%" alt="" />
 
 </div>
