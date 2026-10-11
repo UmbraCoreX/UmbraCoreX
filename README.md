@@ -2,9 +2,9 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="100%" align="right" valign="bottom"><img src="./Assets/Borda_esquerda_superior.png" width="100%" alt="" /></td>
+<td width="20%" align="right" valign="bottom"><img src="./Assets/Borda_esquerda_superior.png" width="100%" alt="" /></td>
 <td width="76%" align="center" valign="bottom"><img src="./Assets/Top.png" width="100%" alt="" /></td>
-<td width="100%" align="left" valign="bottom"><img src="./Assets/Borda_direita_superior.png" width="100%" alt="" /></td>
+<td width="20%" align="left" valign="bottom"><img src="./Assets/Borda_direita_superior.png" width="100%" alt="" /></td>
 </tr>
 <tr>
 <td width="12%" align="right" valign="top"><img src="./Assets/Borda_esquerda.png" width="100%" alt="" /></td>
