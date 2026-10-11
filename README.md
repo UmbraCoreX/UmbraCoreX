@@ -2,23 +2,21 @@
 
 <img src="./Assets/Top.png" width="100%" alt="" />
 
-<br><br>
+<br>
 
-<img src="./Assets/Rogue_crest.webp" width="100" alt="Rogue Crest" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:08050D,25:170D26,55:38205C,80:241338,100:08050D&text=UmbraCoreX&fontColor=DCC7FF&fontSize=52&fontAlignY=40&desc=AN%20ECHO%20AMONG%20THE%20SHADOWS&descSize=13&descAlignY=60&descColor=B49AD9&animation=fadeIn" width="100%" alt="UmbraCoreX" />
 
-<br><br>
+<img src="./Assets/Rogue_crest.webp" width="85" alt="Rogue Crest" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:08050D,25:170D26,55:38205C,80:241338,100:08050D&text=UmbraCoreX&fontColor=DCC7FF&fontSize=52&fontAlignY=40&desc=AN%20ECHO%20AMONG%20THE%20SHADOWS&descSize=13&descAlignY=60&descColor=B49AD9&animation=fadeIn" width="100%" alt="UmbraCoreX" />
-
-<br><br>
+<br>
 
 *“Some souls are never meant to walk in the light.”*
 
-<br><br>
+<br>
 
 ☾　✦　☽
 
-<br><br>
+<br>
 
 **ROGUE AT HEART**
 
@@ -46,8 +44,6 @@ Drawn to forgotten places, ancient stories, and the beauty of things left in the
 
 <h2>☽ BEYOND THE VEIL ☾</h2>
 
-<br>
-
 *Not every shadow hides a monster.*
 
 <br>
@@ -71,8 +67,6 @@ I have always found something fascinating in the mysterious, the unconventional,
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08050D,50:7046A0,100:08050D" width="80%" alt="" />
 
 <h2>✦ THE VOID WITHIN ✦</h2>
-
-<br>
 
 <sub>
 ☾ MYSTERY
@@ -106,10 +100,6 @@ Walking my own path.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:08050D,35:241338,70:38205C,100:08050D" width="100%" alt="" />
-
-<br>
-
-<img src="./Assets/Bottom.png" width="96%" alt="" />
+<img src="./Assets/Bottom.png" width="100%" alt="" />
 
 </div>
