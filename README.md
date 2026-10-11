@@ -1,16 +1,8 @@
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="15%" align="right" valign="bottom"><img src="./Assets/Borda_esquerda_superior.png" width="100%" alt="" /></td>
-<td width="76%" align="center" valign="bottom"><img src="./Assets/Top.png" width="100%" alt="" /></td>
-<td width="15%" align="left" valign="bottom"><img src="./Assets/Borda_direita_superior.png" width="100%" alt="" /></td>
-</tr>
-<tr>
-<td width="12%" align="right" valign="top"><img src="./Assets/Borda_esquerda.png" width="100%" alt="" /></td>
-<td width="76%" align="center" valign="top">
+<img src="./Assets/Top.png" width="100%" alt="" />
 
-<!-- CONTEÚDO CENTRAL -->
+<br><br>
 
 <img src="./Assets/Rogue_crest.webp" width="100" alt="Rogue Crest" />
 
@@ -116,16 +108,8 @@ Walking my own path.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:08050D,35:241338,70:38205C,100:08050D" width="100%" alt="" />
 
-<!-- FIM DO CONTEÚDO CENTRAL -->
+<br>
 
-</td>
-<td width="12%" align="left" valign="top"><img src="./Assets/Borda_direita.png" width="100%" alt="" /></td>
-</tr>
-<tr>
-<td width="15%" align="right" valign="top"><img src="./Assets/Borda_esquerda_inferior.png" width="100%" alt="" /></td>
-<td width="76%" align="center" valign="top"><img src="./Assets/Bottom.png" width="100%" alt="" /></td>
-<td width="15%" align="left" valign="top"><img src="./Assets/Borda_direita_inferior.png" width="100%" alt="" /></td>
-</tr>
-</table>
+<img src="./Assets/Bottom.png" width="100%" alt="" />
 
 </div>
