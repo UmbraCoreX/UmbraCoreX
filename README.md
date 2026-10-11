@@ -110,6 +110,6 @@ Walking my own path.
 
 <br>
 
-<img src="./Assets/Bottom.png" width="80%" alt="" />
+<img src="./Assets/Bottom.png" width="96%" alt="" />
 
 </div>
