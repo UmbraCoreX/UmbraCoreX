@@ -1,16 +1,24 @@
- <div align="center">
+<div align="center">
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="12%" align="right" valign="bottom"><img src="./Assets/Borda_esquerda_superior.png" width="100%" alt="" /></td>
+<td width="76%" align="center" valign="bottom"><img src="./Assets/Top.png" width="100%" alt="" /></td>
+<td width="12%" align="left" valign="bottom"><img src="./Assets/Borda_direita_superior.png" width="100%" alt="" /></td>
+</tr>
+<tr>
+<td width="12%" align="right" valign="top"><img src="./Assets/Borda_esquerda.png" width="100%" alt="" /></td>
+<td width="76%" align="center" valign="top">
+
+<!-- CONTEÚDO CENTRAL -->
 
 <img src="./Assets/Rogue_crest.webp" width="100" alt="Rogue Crest" />
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:08050D,25:170D26,55:38205C,80:241338,100:08050D&text=UmbraCoreX&fontColor=DCC7FF&fontSize=52&fontAlignY=40&desc=AN%20ECHO%20AMONG%20THE%20SHADOWS&descSize=13&descAlignY=60&descColor=B49AD9&animation=fadeIn" width="100%" alt="UmbraCoreX" />
 
-<br>
-
-<img src="./Assets/Top.png" width="70%" alt="" />
-
-<br>
+<br><br>
 
 *“Some souls are never meant to walk in the light.”*
 
@@ -106,10 +114,18 @@ Walking my own path.
 
 <br><br>
 
-<img src="./Assets/Bottom.png" width="70%" alt="" />
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:08050D,35:241338,70:38205C,100:08050D" width="100%" alt="" />
+
+<!-- FIM DO CONTEÚDO CENTRAL -->
+
+</td>
+<td width="12%" align="left" valign="top"><img src="./Assets/Borda_direita.png" width="100%" alt="" /></td>
+</tr>
+<tr>
+<td width="12%" align="right" valign="top"><img src="./Assets/Borda_esquerda_inferior.png" width="100%" alt="" /></td>
+<td width="76%" align="center" valign="top"><img src="./Assets/Bottom.png" width="100%" alt="" /></td>
+<td width="12%" align="left" valign="top"><img src="./Assets/Borda_direita_inferior.png" width="100%" alt="" /></td>
+</tr>
+</table>
 
 </div>
